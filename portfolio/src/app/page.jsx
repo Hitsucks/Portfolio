@@ -128,7 +128,7 @@
    <div className="absolute w-full h-500">
 
     </div>
-        <div className="flex justify-center pt-10 text-6xl font-medium">
+        <div className="flex justify-center pt-20 text-6xl font-medium">
         <h1>My Activities</h1>
         </div>
 
